@@ -1,6 +1,6 @@
 package ie.atu;
 
-public abstract class Pizza implements MenuItem{
+public class Pizza implements MenuItem{
     private String name;
     private double price;
     private String ingredients;
